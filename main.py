@@ -1,0 +1,1 @@
+from morsedecode import app

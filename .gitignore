@@ -1,0 +1,11 @@
+# DB's #
+*.db
+
+# Cache #
+__pycache__/
+migrations/
+.pytest_cache
+
+# project IDEs #
+.vscode/
+.idea/
